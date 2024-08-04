@@ -19,12 +19,12 @@ addon_info = {
 	# Add-on summary, usually the user visible name of the addon.
 	# Translators: Summary for this add-on
 	# to be shown on installation and add-on information found in Add-ons Manager.
-	"addon_summary": _("Custom Speak Typed Characters"),
+	"addon_summary": _("Custom Speak Typed Characters and Words"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description": _("""This add-on allows customization of how NVDA speaks typed characters. Users can cycle through three modes: off, on, and only in editable controls. This enhances the typing experience by providing flexible options for character feedback."""),
+	"addon_description": _("""This add-on allows customization of how NVDA speaks typed characters and words. Users can cycle through three modes for both characters and words: off, on, and only in editable controls."""),
 	# version
-	"addon_version": "1.0.0",
+	"addon_version": "1.1.0",
 	# Author(s)
 	"addon_author": "Cary-rowen <manchen_0528@outlook.com>",
 	# URL for the add-on documentation support
