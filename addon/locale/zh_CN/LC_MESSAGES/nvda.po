@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 'customSpeakTypedCharacters' '1.1.0'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2024-08-09 11:45+0800\n"
+"PO-Revision-Date: 2024-08-09 11:57+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: addon\globalPlugins\customSpeakTypedCharacters.py:68
+msgid ""
+"Cycle through speak typed characters modes: off, on, and on for editable "
+"controls only."
+msgstr "切换输入字符朗读模式：关闭、打开和仅在可编辑控件中读出输入的字符。"
+
+#: addon\globalPlugins\customSpeakTypedCharacters.py:84
+msgid "speak typed characters off"
+msgstr "不读输入字符"
+
+#: addon\globalPlugins\customSpeakTypedCharacters.py:87
+msgid "speak typed characters on"
+msgstr "读出输入字符"
+
+#: addon\globalPlugins\customSpeakTypedCharacters.py:89
+msgid "speak typed characters in editable controls only"
+msgstr "仅在可编辑控件中读出输入的字符"
+
+#: addon\globalPlugins\customSpeakTypedCharacters.py:94
+msgid ""
+"Cycle through speak typed words modes: off, on, and on for editable controls "
+"only."
+msgstr "切换输入单词朗读模式：关闭、打开和仅在可编辑控件中读出输入的单词"
+
+#: addon\globalPlugins\customSpeakTypedCharacters.py:110
+msgid "speak typed words off"
+msgstr "不读输入单词"
+
+#: addon\globalPlugins\customSpeakTypedCharacters.py:113
+msgid "speak typed words on"
+msgstr "读出输入单词"
+
+#: addon\globalPlugins\customSpeakTypedCharacters.py:115
+msgid "speak typed words in editable controls only"
+msgstr "仅在可编辑控件中读出输入的单词"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:22
+msgid "Custom Speak Typed Characters and Words"
+msgstr "输入朗读模式自定义"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:25
+msgid ""
+"This add-on allows customization of how NVDA speaks typed characters and "
+"words. Users can cycle through three modes for both characters and words: "
+"off, on, and only in editable controls."
+msgstr ""
+"此插件可以自定义 NVDA 读出输入字符和输入单词的模式。用户可以在三种模式之间切"
+"换：关闭、打开和仅在可编辑控件中读出输入的单词。"

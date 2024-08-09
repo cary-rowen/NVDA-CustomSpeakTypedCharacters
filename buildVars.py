@@ -24,7 +24,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""This add-on allows customization of how NVDA speaks typed characters and words. Users can cycle through three modes for both characters and words: off, on, and only in editable controls."""),
 	# version
-	"addon_version": "1.1.0",
+	"addon_version": "1.1.1",
 	# Author(s)
 	"addon_author": "Cary-rowen <manchen_0528@outlook.com>",
 	# URL for the add-on documentation support
@@ -55,7 +55,7 @@ addon_info = {
 # pythonSources = ["addon/globalPlugins/*.py"]
 # For more information on SCons Glob expressions please take a look at:
 # https://scons.org/doc/production/HTML/scons-user/apd.html
-pythonSources = []
+pythonSources = ["addon/globalPlugins/*.py"]
 
 # Files that contain strings for translation. Usually your python sources
 i18nSources = pythonSources + ["buildVars.py"]

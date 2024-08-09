@@ -4,6 +4,7 @@
 
 from enum import Enum
 from typing import Callable
+import addonHandler
 import globalPluginHandler
 import controlTypes
 import ui
@@ -13,8 +14,7 @@ from globalCommands import SCRCAT_SPEECH
 from scriptHandler import script
 from NVDAObjects import NVDAObject
 
-# We do not enable localization of add-ons at this time
-# addonHandler.initTranslation()
+addonHandler.initTranslation()
 
 #: Configuration specification, adding customizeSpeakTypedCharacters and customizeSpeakTypedWords options
 confspec = {
