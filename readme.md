@@ -2,6 +2,10 @@
 
 This add-on allows customization of how NVDA speaks typed characters and words. Users can cycle through three modes for both: off, on, and only in editable controls.
 
+## Notes
+
+This feature has been integrated into NVDA core ([#17505](https://github.com/nvaccess/nvda/pull/17505)), and this add-on is no longer maintained.
+
 ## Features
 
 - Three modes for speaking typed characters and words: off, on, and only in editable controls.
